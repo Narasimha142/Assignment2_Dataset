@@ -1,50 +1,50 @@
-Country,Population (millions),GDP per capita (USD)
-United States,331.4,62996
-China,1441.7,10261
-Japan,126.5,40555
-Germany,83.2,52780
-India,1380.0,2104
-United Kingdom,67.9,44162
-France,65.3,43680
-Brazil,212.6,9737
-Italy,60.4,38414
-Canada,37.6,48639
-South Korea,51.8,32743
-Russia,145.9,11289
-Australia,25.4,57327
-Spain,47.3,31952
-Mexico,129.2,9904
-Indonesia,273.5,4229
-Netherlands,17.5,59143
-Turkey,84.3,10546
-Saudi Arabia,33.4,23322
-Switzerland,8.6,85328
-Sweden,10.4,55914
-Norway,5.4,82589
-Denmark,5.8,62300
-Finland,5.5,52110
-Singapore,5.7,65057
-Hong Kong,7.5,49681
-Israel,9.3,44178
-New Zealand,5.1,46600
-Ireland,4.9,86988
-Austria,8.9,52780
-Belgium,11.5,50224
-Greece,10.4,21967
-Portugal,10.3,22193
-Czech Republic,10.7,23814
-Hungary,9.7,16628
-Poland,38.3,15617
-South Africa,59.3,6374
-Argentina,45.3,11661
-Nigeria,211.4,2369
-Egypt,104.3,2727
-Thailand,69.8,7803
-Philippines,112.6,3489
-Vietnam,97.3,2713
-Bangladesh,166.3,1913
-Pakistan,225.2,1288
-Iran,85.0,6069
-Colombia,50.3,6429
-Chile,19.7,15854
-Malaysia,32.6,11165
+Country,Population (millions),GDP per capita (USD),Life Expectancy (years),Happiness Score
+United States,331.4,62996,78.9,6.9
+China,1441.7,10261,76.9,5.4
+Japan,126.5,40555,84.6,6.0
+Germany,83.2,52780,81.3,7.1
+India,1380.0,2104,69.7,4.2
+United Kingdom,67.9,44162,81.2,7.2
+France,65.3,43680,82.7,6.5
+Brazil,212.6,9737,75.9,6.0
+Italy,60.4,38414,83.5,6.2
+Canada,37.6,48639,82.3,7.3
+South Korea,51.8,32743,83.3,5.9
+Russia,145.9,11289,72.6,6.0
+Australia,25.4,57327,83.1,7.2
+Spain,47.3,31952,83.6,6.4
+Mexico,129.2,9904,76.7,6.6
+Indonesia,273.5,4229,71.7,5.3
+Netherlands,17.5,59143,81.8,7.4
+Turkey,84.3,10546,77.7,5.5
+Saudi Arabia,33.4,23322,75.1,6.4
+Switzerland,8.6,85328,83.8,7.5
+Sweden,10.4,55914,82.4,7.3
+Norway,5.4,82589,83.2,7.6
+Denmark,5.8,62300,81.4,7.6
+Finland,5.5,52110,82.4,7.8
+Singapore,5.7,65057,83.8,6.4
+Hong Kong,7.5,49681,84.5,5.9
+Israel,9.3,44178,83.7,7.2
+New Zealand,5.1,46600,81.9,7.3
+Ireland,4.9,86988,82.1,7.0
+Austria,8.9,52780,81.6,7.1
+Belgium,11.5,50224,81.3,6.9
+Greece,10.4,21967,82.4,5.8
+Portugal,10.3,22193,81.0,5.8
+Czech Republic,10.7,23814,79.1,6.9
+Hungary,9.7,16628,76.7,5.9
+Poland,38.3,15617,78.6,6.1
+South Africa,59.3,6374,64.8,4.7
+Argentina,45.3,11661,76.7,5.9
+Nigeria,211.4,2369,54.7,5.1
+Egypt,104.3,2727,71.7,4.2
+Thailand,69.8,7803,76.9,6.0
+Philippines,112.6,3489,71.5,5.5
+Vietnam,97.3,2713,75.2,5.4
+Bangladesh,166.3,1913,73.2,4.9
+Pakistan,225.2,1288,67.3,5.6
+Iran,85.0,6069,75.3,4.8
+Colombia,50.3,6429,77.1,6.3
+Chile,19.7,15854,79.4,6.5
+Malaysia,32.6,11165,75.1,6.1
