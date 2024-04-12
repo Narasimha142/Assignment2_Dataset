@@ -1,0 +1,21 @@
+Customer ID,Product Category,Product Name,Price (USD),Quantity,Total Amount (USD)
+1001,Electronics,Laptop,800,1,800
+1002,Home Appliances,Refrigerator,1200,1,1200
+1003,Clothing,T-shirt,20,3,60
+1004,Electronics,Smartphone,600,1,600
+1005,Furniture,Sofa,1000,1,1000
+1006,Home Appliances,Washing Machine,800,1,800
+1007,Clothing,Jeans,50,2,100
+1008,Electronics,Headphones,100,2,200
+1009,Furniture,Dining Table,500,1,500
+1010,Home Appliances,TV,1500,1,1500
+1011,Electronics,Tablet,400,2,800
+1012,Clothing,Shoes,80,2,160
+1013,Home Appliances,Microwave,150,1,150
+1014,Electronics,Camera,700,1,700
+1015,Furniture,Bed,1200,1,1200
+1016,Home Appliances,Coffee Maker,50,2,100
+1017,Clothing,Dress,60,3,180
+1018,Electronics,Speaker,150,1,150
+1019,Furniture,Bookshelf,300,1,300
+1020,Home Appliances,Air Conditioner,1000,1,1000
