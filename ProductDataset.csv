@@ -1,76 +1,76 @@
-Customer ID,Product Category,Product Name,Price (USD),Quantity,Total Amount (USD)
-1001,Electronics,Laptop,800,1,800
-1002,Home Appliances,Refrigerator,1200,1,1200
-1003,Clothing,T-shirt,20,3,60
-1004,Electronics,Smartphone,600,1,600
-1005,Furniture,Sofa,1000,1,1000
-1006,Home Appliances,Washing Machine,800,1,800
-1007,Clothing,Jeans,50,2,100
-1008,Electronics,Headphones,100,2,200
-1009,Furniture,Dining Table,500,1,500
-1010,Home Appliances,TV,1500,1,1500
-1011,Electronics,Tablet,400,2,800
-1012,Clothing,Shoes,80,2,160
-1013,Home Appliances,Microwave,150,1,150
-1014,Electronics,Camera,700,1,700
-1015,Furniture,Bed,1200,1,1200
-1016,Home Appliances,Coffee Maker,50,2,100
-1017,Clothing,Dress,60,3,180
-1018,Electronics,Speaker,150,1,150
-1019,Furniture,Bookshelf,300,1,300
-1020,Home Appliances,Air Conditioner,1000,1,1000
-1021,Clothing,T-shirt,20,2,40
-1022,Electronics,Smartphone,600,1,600
-1023,Furniture,Sofa,1000,1,1000
-1024,Home Appliances,Washing Machine,800,1,800
-1025,Clothing,Jeans,50,2,100
-1026,Electronics,Headphones,100,2,200
-1027,Furniture,Dining Table,500,1,500
-1028,Home Appliances,TV,1500,1,1500
-1029,Electronics,Tablet,400,2,800
-1030,Clothing,Shoes,80,2,160
-1031,Home Appliances,Microwave,150,1,150
-1032,Electronics,Camera,700,1,700
-1033,Furniture,Bed,1200,1,1200
-1034,Home Appliances,Coffee Maker,50,2,100
-1035,Clothing,Dress,60,3,180
-1036,Electronics,Speaker,150,1,150
-1037,Furniture,Bookshelf,300,1,300
-1038,Home Appliances,Air Conditioner,1000,1,1000
-1039,Clothing,T-shirt,20,2,40
-1040,Electronics,Smartphone,600,1,600
-1041,Furniture,Sofa,1000,1,1000
-1042,Home Appliances,Washing Machine,800,1,800
-1043,Clothing,Jeans,50,2,100
-1044,Electronics,Headphones,100,2,200
-1045,Furniture,Dining Table,500,1,500
-1046,Home Appliances,TV,1500,1,1500
-1047,Electronics,Tablet,400,2,800
-1048,Clothing,Shoes,80,2,160
-1049,Home Appliances,Microwave,150,1,150
-1050,Electronics,Camera,700,1,700
-1051,Furniture,Bed,1200,1,1200
-1052,Home Appliances,Coffee Maker,50,2,100
-1053,Clothing,Dress,60,3,180
-1054,Electronics,Speaker,150,1,150
-1055,Furniture,Bookshelf,300,1,300
-1056,Home Appliances,Air Conditioner,1000,1,1000
-1057,Clothing,T-shirt,20,2,40
-1058,Electronics,Smartphone,600,1,600
-1059,Furniture,Sofa,1000,1,1000
-1060,Home Appliances,Washing Machine,800,1,800
-1061,Clothing,Jeans,50,2,100
-1062,Electronics,Headphones,100,2,200
-1063,Furniture,Dining Table,500,1,500
-1064,Home Appliances,TV,1500,1,1500
-1065,Electronics,Tablet,400,2,800
-1066,Clothing,Shoes,80,2,160
-1067,Home Appliances,Microwave,150,1,150
-1068,Electronics,Camera,700,1,700
-1069,Furniture,Bed,1200,1,1200
-1070,Home Appliances,Coffee Maker,50,2,100
-1071,Clothing,Dress,60,3,180
-1072,Electronics,Speaker,150,1,150
-1073,Furniture,Bookshelf,300,1,300
-1074,Home Appliances,Air Conditioner,1000,1,1000
-1075,Clothing,T-shirt,20,2,40
+Customer ID,Product Category,Product Name,Price (USD),Quantity,Total Amount (USD),Country,Date Purchased,Payment Method
+1001,Electronics,Laptop,800,1,800,USA,2024-04-01,Card
+1002,Home Appliances,Refrigerator,1200,1,1200,Canada,2024-04-02,Cash
+1003,Clothing,T-shirt,20,3,60,UK,2024-04-03,PayPal
+1004,Electronics,Smartphone,600,1,600,Germany,2024-04-04,Card
+1005,Furniture,Sofa,1000,1,1000,France,2024-04-05,Card
+1006,Home Appliances,Washing Machine,800,1,800,USA,2024-04-06,Cash
+1007,Clothing,Jeans,50,2,100,Canada,2024-04-07,PayPal
+1008,Electronics,Headphones,100,2,200,UK,2024-04-08,Card
+1009,Furniture,Dining Table,500,1,500,Germany,2024-04-09,Cash
+1010,Home Appliances,TV,1500,1,1500,France,2024-04-10,Card
+1011,Electronics,Tablet,400,2,800,USA,2024-04-11,Card
+1012,Clothing,Shoes,80,2,160,Canada,2024-04-12,PayPal
+1013,Home Appliances,Microwave,150,1,150,UK,2024-04-13,Card
+1014,Electronics,Camera,700,1,700,Germany,2024-04-14,Cash
+1015,Furniture,Bed,1200,1,1200,France,2024-04-15,Card
+1016,Home Appliances,Coffee Maker,50,2,100,USA,2024-04-16,Cash
+1017,Clothing,Dress,60,3,180,Canada,2024-04-17,PayPal
+1018,Electronics,Speaker,150,1,150,UK,2024-04-18,Card
+1019,Furniture,Bookshelf,300,1,300,Germany,2024-04-19,Cash
+1020,Home Appliances,Air Conditioner,1000,1,1000,France,2024-04-20,Card
+1021,Clothing,T-shirt,20,2,40,USA,2024-04-21,Card
+1022,Electronics,Smartphone,600,1,600,Canada,2024-04-22,Cash
+1023,Furniture,Sofa,1000,1,1000,UK,2024-04-23,PayPal
+1024,Home Appliances,Washing Machine,800,1,800,Germany,2024-04-24,Card
+1025,Clothing,Jeans,50,2,100,France,2024-04-25,Cash
+1026,Electronics,Headphones,100,2,200,USA,2024-04-26,Card
+1027,Furniture,Dining Table,500,1,500,Canada,2024-04-27,PayPal
+1028,Home Appliances,TV,1500,1,1500,UK,2024-04-28,Card
+1029,Electronics,Tablet,400,2,800,Germany,2024-04-29,Cash
+1030,Clothing,Shoes,80,2,160,France,2024-04-30,Card
+1031,Home Appliances,Microwave,150,1,150,USA,2024-05-01,Cash
+1032,Electronics,Camera,700,1,700,Canada,2024-05-02,PayPal
+1033,Furniture,Bed,1200,1,1200,UK,2024-05-03,Card
+1034,Home Appliances,Coffee Maker,50,2,100,Germany,2024-05-04,Cash
+1035,Clothing,Dress,60,3,180,France,2024-05-05,Card
+1036,Electronics,Speaker,150,1,150,USA,2024-05-06,Cash
+1037,Furniture,Bookshelf,300,1,300,Canada,2024-05-07,PayPal
+1038,Home Appliances,Air Conditioner,1000,1,1000,UK,2024-05-08,Card
+1039,Clothing,T-shirt,20,2,40,Germany,2024-05-09,Cash
+1040,Electronics,Smartphone,600,1,600,France,2024-05-10,Card
+1041,Furniture,Sofa,1000,1,1000,USA,2024-05-11,Card
+1042,Home Appliances,Washing Machine,800,1,800,Canada,2024-05-12,Cash
+1043,Clothing,Jeans,50,2,100,UK,2024-05-13,PayPal
+1044,Electronics,Headphones,100,2,200,Germany,2024-05-14,Card
+1045,Furniture,Dining Table,500,1,500,France,2024-05-15,Cash
+1046,Home Appliances,TV,1500,1,1500,USA,2024-05-16,Card
+1047,Electronics,Tablet,400,2,800,Canada,2024-05-17,PayPal
+1048,Clothing,Shoes,80,2,160,UK,2024-05-18,Card
+1049,Home Appliances,Microwave,150,1,150,Germany,2024-05-19,Cash
+1050,Electronics,Camera,700,1,700,France,2024-05-20,Card
+1051,Furniture,Bed,1200,1,1200,USA,2024-05-21,Cash
+1052,Home Appliances,Coffee Maker,50,2,100,Canada,2024-05-22,PayPal
+1053,Clothing,Dress,60,3,180,UK,2024-05-23,Card
+1054,Electronics,Speaker,150,1,150,Germany,2024-05-24,Cash
+1055,Furniture,Bookshelf,300,1,300,France,2024-05-25,Card
+1056,Home Appliances,Air Conditioner,1000,1,1000,USA,2024-05-26,Cash
+1057,Clothing,T-shirt,20,2,40,Canada,2024-05-27,PayPal
+1058,Electronics,Smartphone,600,1,600,UK,2024-05-28,Card
+1059,Furniture,Sofa,1000,1,1000,Germany,2024-05-29,Cash
+1060,Home Appliances,Washing Machine,800,1,800,France,2024-05-30,Card
+1061,Clothing,Jeans,50,2,100,USA,2024-06-01,Cash
+1062,Electronics,Headphones,100,2,200,Canada,2024-06-02,PayPal
+1063,Furniture,Dining Table,500,1,500,UK,2024-06-03,Card
+1064,Home Appliances,TV,1500,1,1500,Germany,2024-06-04,Cash
+1065,Electronics,Tablet,400,2,800,France,2024-06-05,Card
+1066,Clothing,Shoes,80,2,160,USA,2024-06-06,Cash
+1067,Home Appliances,Microwave,150,1,150,Canada,2024-06-07,PayPal
+1068,Electronics,Camera,700,1,700,UK,2024-06-08,Card
+1069,Furniture,Bed,1200,1,1200,Germany,2024-06-09,Cash
+1070,Home Appliances,Coffee Maker,50,2,100,France,2024-06-10,Card
+1071,Clothing,Dress,60,3,180,USA,2024-06-11,Cash
+1072,Electronics,Speaker,150,1,150,Canada,2024-06-12,PayPal
+1073,Furniture,Bookshelf,300,1,300,UK,2024-06-13,Card
+1074,Home Appliances,Air Conditioner,1000,1,1000,Germany,2024-06-14,Cash
+1075,Clothing,T-shirt,20,2,40,France,2024-06-15,Card
